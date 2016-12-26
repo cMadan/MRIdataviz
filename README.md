@@ -35,7 +35,7 @@ https://brainbrowser.cbrain.mcgill.ca/
 https://Pysurfer.github.io
 
 
-## Related
+### Related
 
 #### ITK-SNAP
 
@@ -75,11 +75,39 @@ http://colorbrewer2.org
 
 https://www.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer--attractive-and-distinctive-colormaps
 
+http://www.mathworks.com/matlabcentral/fileexchange/30564-othercolor
+
+http://www.mathworks.com/matlabcentral/fileexchange/30564-othercolor
+
 #### mpl colormaps (viridis)
 
 http://bids.github.io/colormap/
 
 https://www.mathworks.com/matlabcentral/fileexchange/51986-perceptually-uniform-colormaps
+
+https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html
+
+https://www.youtube.com/watch?v=xAoljeRJ3lU
+
+### CET (Centre for Exporation Targeting)
+
+http://peterkovesi.com/projects/colourmaps/
+
+http://peterkovesi.com/MatlabFns/
+
+https://github.com/bokeh/colorcet
+
+https://arxiv.org/abs/1509.03700
+
+### pmkmp
+
+https://www.mathworks.com/matlabcentral/fileexchange/28982-perceptually-improved-colormaps
+
+https://github.com/mycarta/PMKMP
+
+https://mycarta.wordpress.com/2013/03/06/perceptual-rainbow-palette-the-goodies/
+
+https://mycarta.wordpress.com/2012/05/29/the-rainbow-is-dead-long-live-the-rainbow-series-outline/
 
 #### bipolar
 
@@ -95,3 +123,6 @@ http://www.mathworks.com/matlabcentral/fileexchange/43700-cubehelix-colormaps--b
 
 http://www.mathworks.com/matlabcentral/fileexchange/17555-light-bartlein-color-maps
 
+#### Haxby
+
+https://www.mathworks.com/matlabcentral/fileexchange/25690-haxby-color-map
