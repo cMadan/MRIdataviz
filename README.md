@@ -7,6 +7,10 @@ Supplementary to "Data visualization and inference in brain imaging"
 
 ### 2D
 
+### ICBM 152 Nonlinear atlases version 2009
+
+http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009
+
 #### xjView
 
 http://www.alivelearn.net/xjview/
@@ -22,17 +26,23 @@ http://www.bobspunt.com/bspmview/
 
 https://github.com/dprice80/mni2fs
 
+#### pySurfer
+
+https://Pysurfer.github.io
+
+#### Pycortex
+
+https://github.com/gallantlab/pycortex
+
+#### BrainBrowser
+
+https://brainbrowser.cbrain.mcgill.ca
+
 #### BrainNetBrowser
 
 https://www.nitrc.org/projects/bnv/
 
-#### BrainBrowser
 
-https://brainbrowser.cbrain.mcgill.ca/
-
-#### pySurfer
-
-https://Pysurfer.github.io
 
 
 ### Related
@@ -73,9 +83,9 @@ http://matplotlib.org/cmocean/
 
 http://colorbrewer2.org
 
-https://www.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer--attractive-and-distinctive-colormaps
+https://github.com/DrosteEffect/BrewerMap
 
-http://www.mathworks.com/matlabcentral/fileexchange/30564-othercolor
+https://www.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer--attractive-and-distinctive-colormaps
 
 http://www.mathworks.com/matlabcentral/fileexchange/30564-othercolor
 
@@ -89,7 +99,7 @@ https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html
 
 https://www.youtube.com/watch?v=xAoljeRJ3lU
 
-### CET (Centre for Exporation Targeting)
+#### CET (Centre for Exporation Targeting)
 
 http://peterkovesi.com/projects/colourmaps/
 
@@ -99,7 +109,7 @@ https://github.com/bokeh/colorcet
 
 https://arxiv.org/abs/1509.03700
 
-### pmkmp
+#### pmkmp
 
 https://www.mathworks.com/matlabcentral/fileexchange/28982-perceptually-improved-colormaps
 
