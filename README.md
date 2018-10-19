@@ -1,5 +1,5 @@
 # MRIdataviz
-Supplementary to "Data visualization and inference in brain imaging"
+Supplementary to "Data visualization for inference in tomographic brain imaging"
 
 
 ## Visualization
@@ -18,6 +18,10 @@ http://www.alivelearn.net/xjview/
 #### bspmview
 
 http://www.bobspunt.com/bspmview/
+
+#### nanslice
+
+https://github.com/spinicist/nanslice
 
 
 ### 3D
@@ -41,11 +45,6 @@ https://brainbrowser.cbrain.mcgill.ca
 #### BrainNetBrowser
 
 https://www.nitrc.org/projects/bnv/
-
-
-
-
-### Related
 
 #### ITK-SNAP
 
