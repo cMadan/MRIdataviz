@@ -1,5 +1,6 @@
 # MRIdataviz
-Supplementary to "Data visualization for inference in tomographic brain imaging"
+Supplementary to 
+Pernet, C. R., & Madan, C. R. (in press). Data visualization for inference in tomographic brain imaging. *European Journal of Neuroscience*. doi: [10.1111/ejn.14430](https://doi.org/10.1111/ejn.14430)
 
 
 ## Visualization
